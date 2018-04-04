@@ -13,8 +13,7 @@ Caroline Cayll
 Build an app that displays information about movies. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/crc15/cayll_lesson8.git
 
 ### Lessons Learned in the Assignment:
 1. Building an app using an API
